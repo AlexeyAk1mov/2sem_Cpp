@@ -1,1 +1,1 @@
-# infa_2021_akimov
+# C ++ contests and labs
